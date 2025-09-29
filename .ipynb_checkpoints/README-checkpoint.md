@@ -1,6 +1,6 @@
 # Project Title (This is a template README.md file that you can adapt to your project)
 
-> The following project is meant to compare the precipitation data between Miami and Seattle over five years and determine which city has more precipitation within this timespan. 
+> A brief description of what the project does and its purpose.
 
 ---
 
@@ -28,8 +28,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** https://raw.githubusercontent.com/brian-fischer/DATA-5100/refs/heads/main/weather/seattle_rain.csv
-- https://www.ncei.noaa.gov/orders/cdo/4133247.csv
+- **Source:** Link to the data source(s) 
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
 
